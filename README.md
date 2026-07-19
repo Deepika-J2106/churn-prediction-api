@@ -6,7 +6,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-![Render](https://img.shields.io/badge/Deployed-Render-purple)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 ---
